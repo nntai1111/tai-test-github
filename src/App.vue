@@ -1,4 +1,5 @@
 <template>
+  <p>3</p>
   <the-header></the-header>
   <router-view v-slot="slotProps">
     <transition name="route" mode="out-in">
